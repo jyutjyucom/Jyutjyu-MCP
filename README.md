@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/jyutjyu-mcp.svg)](https://badge.fury.io/js/jyutjyu-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> MCP server for [Jyutjyu Cantonese Dictionary](https://jyutjyu.com) | 粵語辭叢 MCP 服務器
+> MCP server for [Jyutjyu.com](https://jyutjyu.com) | 粵語辭叢 MCP 服務器
 
 **粵語辭叢** 係一個粵語詞典聚合平台，收錄 11 部詞典、超過 26 萬詞條。呢個 MCP server 等你可以喺 Claude Desktop、Cursor 等 AI 工具入面直接查粵語詞典。
 

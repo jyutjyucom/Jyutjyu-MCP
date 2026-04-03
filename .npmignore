@@ -1,0 +1,11 @@
+# Source files (not needed in npm package)
+src/
+tsconfig.json
+
+# Development files
+.gitignore
+*.log
+.DS_Store
+
+# Node modules (will be installed by npm)
+node_modules/
